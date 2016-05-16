@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=NetR54_1 Pin=U4-35
+Removed Pin From Net: NetName=NetR58_1 Pin=U4-36
+Removed Pin From Net: NetName=NetR55_1 Pin=U4-37
+Removed Pin From Net: NetName=NetR59_1 Pin=U4-38
+Change Component DesignItemId : Designator=IC1 Old DesignItemId=REG3+1 1GND-2OUT-3IN+4OUT New DesignItemId=LM1117MP-1.8/NOPB
+Added Pin To Net: NetName=NetR59_1 Pin=U4-35
+Added Pin To Net: NetName=NetR55_1 Pin=U4-36
+Added Pin To Net: NetName=NetR58_1 Pin=U4-37
+Added Pin To Net: NetName=NetR54_1 Pin=U4-38
+Added Room: Name=Alimentacao
+Added Room: Name=Comu_485
+Added Room: Name=conn
+Added Room: Name=eeprom24c32
+Added Room: Name=I2C
+Added Room: Name=Input_dig
+Added Room: Name=Microcontrolador
+Added Room: Name=Output_dig
+Added Room: Name=Output_Rele
+Added Room: Name=RTC_ds1307z
+Added Room: Name=USB_SERIAL

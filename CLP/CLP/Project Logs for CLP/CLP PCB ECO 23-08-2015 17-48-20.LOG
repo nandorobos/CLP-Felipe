@@ -1,0 +1,16 @@
+Removed Member From Class: ClassName=Output_Rele Member=*1
+Removed Member From Class: ClassName=Output_Rele Member=*2
+Removed Member From Class: ClassName=Output_Rele Member=*3
+Removed Member From Class: ClassName=Output_Rele Member=*4
+Change Component Designator: OldDesignator=J6 NewDesignator=J8
+Change Component Designator: OldDesignator=J8 NewDesignator=J6
+Added Component: Designator=R*1(rele)
+Added Component: Designator=R*2(rele)
+Added Component: Designator=R*3(rele)
+Added Component: Designator=R*4(rele)
+Change Net Name : Old Net Name=NetJ6_2 New Net Name=NetJ8_2
+Change Net Name : Old Net Name=NetJ6_3 New Net Name=NetJ8_3
+Added Member To Class: ClassName=Output_Rele Member=Component R*1 Rele
+Added Member To Class: ClassName=Output_Rele Member=Component R*2 Rele
+Added Member To Class: ClassName=Output_Rele Member=Component R*3 Rele
+Added Member To Class: ClassName=Output_Rele Member=Component R*4 Rele

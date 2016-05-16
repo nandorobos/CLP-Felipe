@@ -1,0 +1,34 @@
+Removed Pin From Net: NetName=NetR54_1 Pin=R54-1
+Removed Pin From Net: NetName=NetR54_2 Pin=R54-2
+Removed Pin From Net: NetName=NetR55_1 Pin=R55-1
+Removed Pin From Net: NetName=NetR55_2 Pin=R55-2
+Removed Pin From Net: NetName=NetR60_1 Pin=R60-1
+Removed Pin From Net: NetName=NetR60_2 Pin=R60-2
+Removed Pin From Net: NetName=NetJ8_2 Pin=R61-1
+Removed Pin From Net: NetName=NetR61_2 Pin=R61-2
+Added Component: Designator=R54(0805R-10K)
+Added Component: Designator=R55(0805R-10K)
+Added Component: Designator=R60(0805R-1K)
+Added Component: Designator=R61(0603R-22)
+Added Pin To Net: NetName=24V Pin=R52-1
+Added Pin To Net: NetName=NetD21_2 Pin=R52-2
+Added Pin To Net: NetName=NetJ11_1 Pin=R52-3
+Added Pin To Net: NetName=24V Pin=R53-1
+Added Pin To Net: NetName=NetD22_2 Pin=R53-2
+Added Pin To Net: NetName=NetJ11_1 Pin=R53-3
+Added Pin To Net: NetName=NetR54_1 Pin=R54-1
+Added Pin To Net: NetName=NetR54_2 Pin=R54-2
+Added Pin To Net: NetName=NetR55_1 Pin=R55-1
+Added Pin To Net: NetName=NetR55_2 Pin=R55-2
+Added Pin To Net: NetName=24V Pin=R56-1
+Added Pin To Net: NetName=NetD23_2 Pin=R56-2
+Added Pin To Net: NetName=NetJ11_1 Pin=R56-3
+Added Pin To Net: NetName=24V Pin=R57-1
+Added Pin To Net: NetName=NetD24_2 Pin=R57-2
+Added Pin To Net: NetName=NetJ11_1 Pin=R57-3
+Added Pin To Net: NetName=NetR60_1 Pin=R60-1
+Added Pin To Net: NetName=NetR60_2 Pin=R60-2
+Added Pin To Net: NetName=NetJ8_2 Pin=R61-1
+Added Pin To Net: NetName=NetR61_2 Pin=R61-2
+Added Member To Class: ClassName=Output_Rele Member=Component R54 10K
+Added Member To Class: ClassName=Output_Rele Member=Component R55 10K

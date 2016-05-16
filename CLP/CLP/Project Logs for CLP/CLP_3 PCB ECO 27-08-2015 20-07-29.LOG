@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetJ8_2 Pin=R61-1
+Removed Pin From Net: NetName=NetJ8_3 Pin=R63-1
+Added Pin To Net: NetName=NetJ8_3 Pin=R61-1
+Added Pin To Net: NetName=NetJ8_2 Pin=R63-1
+Added Room: Name=Alimentacao
+Added Room: Name=Comu_485
+Added Room: Name=conn

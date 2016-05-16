@@ -1,0 +1,207 @@
+Removed Pin From Net: NetName=NetIC1_2 Pin=IC1-2
+Removed Pin From Net: NetName=NetC15_2 Pin=IC1-3
+Removed Pin From Net: NetName=GND Pin=IC1-5
+Removed Pin From Net: NetName=NetIC1_6 Pin=IC1-6
+Removed Pin From Net: NetName=5V Pin=IC1-7
+Removed Pin From Net: NetName=5V Pin=IC1-8
+Removed Pin From Net: NetName=NetC19_2 Pin=IC2-3
+Removed Pin From Net: NetName=NetC16_2 Pin=IC3-3
+Removed Pin From Net: NetName=NetC20_2 Pin=IC4-3
+Removed Pin From Net: NetName=NetC17_2 Pin=IC5-3
+Removed Pin From Net: NetName=NetIC6_2 Pin=IC6-2
+Removed Pin From Net: NetName=NetC21_2 Pin=IC6-3
+Removed Pin From Net: NetName=GND Pin=IC6-5
+Removed Pin From Net: NetName=NetIC6_6 Pin=IC6-6
+Removed Pin From Net: NetName=5V Pin=IC6-7
+Removed Pin From Net: NetName=5V Pin=IC6-8
+Removed Pin From Net: NetName=GND Pin=IC12-3
+Removed Pin From Net: NetName=GND Pin=IC12-5
+Removed Pin From Net: NetName=NetIC12_6 Pin=IC12-6
+Removed Pin From Net: NetName=5V Pin=IC12-7
+Removed Pin From Net: NetName=5V Pin=IC12-8
+Removed Pin From Net: NetName=NetJ5_1 Pin=J5-1
+Removed Pin From Net: NetName=NetJ5_2 Pin=J5-2
+Removed Pin From Net: NetName=NetIC1_6 Pin=R12-2
+Removed Pin From Net: NetName=NetIC2_6 Pin=R13-2
+Removed Pin From Net: NetName=NetD1_1 Pin=R14-1
+Removed Pin From Net: NetName=NetD3_1 Pin=R14-2
+Removed Pin From Net: NetName=NetD3_1 Pin=R15-1
+Removed Pin From Net: NetName=NetIC1_2 Pin=R15-2
+Removed Pin From Net: NetName=NetIC2_2 Pin=R17-2
+Removed Pin From Net: NetName=NetIC3_6 Pin=R18-2
+Removed Pin From Net: NetName=NetIC4_6 Pin=R19-2
+Removed Pin From Net: NetName=NetD5_1 Pin=R20-1
+Removed Pin From Net: NetName=NetD7_1 Pin=R20-2
+Removed Pin From Net: NetName=NetD7_1 Pin=R21-1
+Removed Pin From Net: NetName=NetIC3_2 Pin=R21-2
+Removed Pin From Net: NetName=NetIC4_2 Pin=R23-2
+Removed Pin From Net: NetName=NetIC5_6 Pin=R24-2
+Removed Pin From Net: NetName=NetIC6_6 Pin=R25-2
+Removed Pin From Net: NetName=NetD9_1 Pin=R26-1
+Removed Pin From Net: NetName=NetD11_1 Pin=R26-2
+Removed Pin From Net: NetName=NetD11_1 Pin=R27-1
+Removed Pin From Net: NetName=NetIC5_2 Pin=R27-2
+Removed Pin From Net: NetName=NetIC6_2 Pin=R29-2
+Removed Pin From Net: NetName=NetD13_1 Pin=R32-1
+Removed Pin From Net: NetName=NetD15_1 Pin=R32-2
+Removed Pin From Net: NetName=NetD15_1 Pin=R33-1
+Removed Pin From Net: NetName=NetIC7_2 Pin=R33-2
+Removed Pin From Net: NetName=NetJ5_2 Pin=R36-2
+Removed Pin From Net: NetName=NetJ5_1 Pin=R37-2
+Removed Pin From Net: NetName=NetIC12_6 Pin=R47-2
+Removed Pin From Net: NetName=NetIC12_2 Pin=R49-2
+Removed Pin From Net: NetName=NetIC12_6 Pin=R51-1
+Removed Pin From Net: NetName=NetJ5_1 Pin=U3-5
+Removed Pin From Net: NetName=NetJ5_2 Pin=U3-6
+Removed Pin From Net: NetName=NetIC1_6 Pin=U4-1
+Removed Pin From Net: NetName=NetIC3_6 Pin=U4-5
+Removed Pin From Net: NetName=NetIC5_6 Pin=U4-6
+Removed Pin From Net: NetName=NetIC2_6 Pin=U4-15
+Removed Pin From Net: NetName=NetIC4_6 Pin=U4-16
+Removed Pin From Net: NetName=NetIC6_6 Pin=U4-17
+Removed Pin From Net: NetName=NetJ5_2 Pin=U4-43
+Removed Pin From Net: NetName=NetJ5_1 Pin=U4-44
+Removed Pin From Net: NetName=NetJ5_1 Pin=U5-5
+Removed Pin From Net: NetName=NetJ5_2 Pin=U5-6
+Removed Member From Class: ClassName=Input_dig Member=IC1
+Removed Member From Class: ClassName=Input_dig Member=IC6
+Removed Member From Class: ClassName=Output_dig Member=IC12
+Change Component DesignItemId : Designator=IC1 Old DesignItemId=HCPL-2601-000E New DesignItemId=LM1117MP-1.8/NOPB
+Change Component DesignItemId : Designator=IC12 Old DesignItemId=HCPL-2601-000E New DesignItemId=PCA9600DP,118
+Change Component Footprint: Designator=IC12 Old Footprint=DIP8-300 New Footprint=SOP65P490X110-8N
+Change Component Comment : Designator=IC12 Old Comment=HCPL-2601-000E New Comment=PCA9600DP,118
+Change Component Description : Designator=IC1 Old Description=Single Optocoupler New Description=3-Terminal Regulator 1=GND 2=OUT 3=IN 4=OUT
+Added Component: Designator=IC11(DIP8-300)
+Added Component: Designator=IC13(DIP8-300)
+Added Component: Designator=IC14(DIP8-300)
+Added Component: Designator=R14(RES1016-630X250)
+Added Component: Designator=R15(RES1016-630X250)
+Added Component: Designator=R20(RES1016-630X250)
+Added Component: Designator=R21(RES1016-630X250)
+Added Component: Designator=R26(RES1016-630X250)
+Added Component: Designator=R27(RES1016-630X250)
+Added Component: Designator=R32(RES1016-630X250)
+Added Component: Designator=R33(RES1016-630X250)
+Added Component: Designator=R64(0805R-330)
+Added Component: Designator=R65(0805R-330)
+Added Component: Designator=R66(0805R-330)
+Added Component: Designator=R67(0805R-330)
+Added Pin To Net: NetName=GND Pin=IC1-1
+Added Pin To Net: NetName=5V Pin=IC1-3
+Added Pin To Net: NetName=NetC15_2 Pin=IC2-3
+Added Pin To Net: NetName=NetC19_2 Pin=IC3-3
+Added Pin To Net: NetName=NetC16_2 Pin=IC4-3
+Added Pin To Net: NetName=NetC20_2 Pin=IC5-3
+Added Pin To Net: NetName=NetIC1_2 Pin=IC11-2
+Added Pin To Net: NetName=GND Pin=IC11-3
+Added Pin To Net: NetName=GND Pin=IC11-5
+Added Pin To Net: NetName=NetIC1_6 Pin=IC11-6
+Added Pin To Net: NetName=5V Pin=IC11-7
+Added Pin To Net: NetName=5V Pin=IC11-8
+Added Pin To Net: NetName=NetIC12_2 Pin=IC12-3
+Added Pin To Net: NetName=GND Pin=IC12-4
+Added Pin To Net: NetName=NetJ5_2 Pin=IC12-7
+Added Pin To Net: NetName=NetIC6_2 Pin=IC13-2
+Added Pin To Net: NetName=NetC17_2 Pin=IC13-3
+Added Pin To Net: NetName=GND Pin=IC13-5
+Added Pin To Net: NetName=NetIC6_6 Pin=IC13-6
+Added Pin To Net: NetName=5V Pin=IC13-7
+Added Pin To Net: NetName=5V Pin=IC13-8
+Added Pin To Net: NetName=NetIC12_6 Pin=IC14-2
+Added Pin To Net: NetName=NetC21_2 Pin=IC14-3
+Added Pin To Net: NetName=GND Pin=IC14-5
+Added Pin To Net: NetName=NetJ5_1 Pin=IC14-6
+Added Pin To Net: NetName=5V Pin=IC14-7
+Added Pin To Net: NetName=5V Pin=IC14-8
+Added Pin To Net: NetName=NetIC12_2 Pin=J5-2
+Added Pin To Net: NetName=NetIC2_6 Pin=R12-2
+Added Pin To Net: NetName=NetIC3_6 Pin=R13-2
+Added Pin To Net: NetName=NetD1_1 Pin=R14-1
+Added Pin To Net: NetName=NetD3_1 Pin=R14-2
+Added Pin To Net: NetName=NetD3_1 Pin=R15-1
+Added Pin To Net: NetName=NetIC2_2 Pin=R15-2
+Added Pin To Net: NetName=NetIC3_2 Pin=R17-2
+Added Pin To Net: NetName=NetIC4_6 Pin=R18-2
+Added Pin To Net: NetName=NetIC5_6 Pin=R19-2
+Added Pin To Net: NetName=NetD5_1 Pin=R20-1
+Added Pin To Net: NetName=NetD7_1 Pin=R20-2
+Added Pin To Net: NetName=NetD7_1 Pin=R21-1
+Added Pin To Net: NetName=NetIC4_2 Pin=R21-2
+Added Pin To Net: NetName=NetIC5_2 Pin=R23-2
+Added Pin To Net: NetName=NetIC6_6 Pin=R24-2
+Added Pin To Net: NetName=NetJ5_1 Pin=R25-2
+Added Pin To Net: NetName=NetD9_1 Pin=R26-1
+Added Pin To Net: NetName=NetD11_1 Pin=R26-2
+Added Pin To Net: NetName=NetD11_1 Pin=R27-1
+Added Pin To Net: NetName=NetIC6_2 Pin=R27-2
+Added Pin To Net: NetName=NetIC12_6 Pin=R29-2
+Added Pin To Net: NetName=NetD13_1 Pin=R32-1
+Added Pin To Net: NetName=NetD15_1 Pin=R32-2
+Added Pin To Net: NetName=NetD15_1 Pin=R33-1
+Added Pin To Net: NetName=NetIC7_2 Pin=R33-2
+Added Pin To Net: NetName=NetJ5_2 Pin=R37-2
+Added Pin To Net: NetName=NetIC1_6 Pin=R47-2
+Added Pin To Net: NetName=NetIC1_2 Pin=R49-2
+Added Pin To Net: NetName=NetIC1_6 Pin=R51-1
+Added Pin To Net: NetName=5V Pin=R64-1
+Added Pin To Net: NetName=5V Pin=R65-1
+Added Pin To Net: NetName=NetJ5_2 Pin=R65-2
+Added Pin To Net: NetName=NetIC12_2 Pin=R66-2
+Added Pin To Net: NetName=NetJ5_2 Pin=U3-5
+Added Pin To Net: NetName=NetIC2_6 Pin=U4-1
+Added Pin To Net: NetName=NetIC4_6 Pin=U4-5
+Added Pin To Net: NetName=NetIC6_6 Pin=U4-6
+Added Pin To Net: NetName=NetIC3_6 Pin=U4-15
+Added Pin To Net: NetName=NetIC5_6 Pin=U4-16
+Added Pin To Net: NetName=NetJ5_1 Pin=U4-17
+Added Pin To Net: NetName=NetJ5_2 Pin=U4-44
+Added Pin To Net: NetName=NetJ5_2 Pin=U5-5
+Change Net Name : Old Net Name=NetIC1_2 New Net Name=NetIC11_2
+Change Net Name : Old Net Name=NetIC1_6 New Net Name=NetIC11_6
+Change Net Name : Old Net Name=NetIC6_2 New Net Name=NetIC13_2
+Change Net Name : Old Net Name=NetIC6_6 New Net Name=NetIC13_6
+Change Net Name : Old Net Name=NetIC12_6 New Net Name=NetIC14_2
+Change Net Name : Old Net Name=NetJ5_1 New Net Name=NetIC14_6
+Change Net Name : Old Net Name=NetJ5_2 New Net Name=NetIC12_7
+Added Pin To Net: NetName=3.3V Pin=IC1-2
+Added Pin To Net: NetName=3.3V Pin=IC12-8
+Added Pin To Net: NetName=3.3V Pin=R66-1
+Added Pin To Net: NetName=3.3V Pin=R67-1
+Added Net: Name=3.3V
+Added Pin To Net: NetName=NetIC12_1 Pin=IC12-1
+Added Pin To Net: NetName=NetIC12_1 Pin=R36-2
+Added Pin To Net: NetName=NetIC12_1 Pin=R64-2
+Added Pin To Net: NetName=NetIC12_1 Pin=U3-6
+Added Pin To Net: NetName=NetIC12_1 Pin=U4-43
+Added Pin To Net: NetName=NetIC12_1 Pin=U5-6
+Added Net: Name=NetIC12_1
+Added Pin To Net: NetName=NetIC12_5 Pin=IC12-5
+Added Pin To Net: NetName=NetIC12_5 Pin=IC12-6
+Added Pin To Net: NetName=NetIC12_5 Pin=J5-1
+Added Pin To Net: NetName=NetIC12_5 Pin=R67-2
+Added Net: Name=NetIC12_5
+Added Class: Name=I2C
+Added Member To Class: ClassName=Alimentacao Member=Component IC1 HCPL-2601-000E
+Added Member To Class: ClassName=Input_dig Member=Component IC2 HCPL-2601-000E
+Added Member To Class: ClassName=Output_dig Member=Component IC11 HCPL-2601-000E
+Added Member To Class: ClassName=Input_dig Member=Component IC13 HCPL-2601-000E
+Added Member To Class: ClassName=Input_dig Member=Component IC14 HCPL-2601-000E
+Added Member To Class: ClassName=Input_dig Member=Component R14 330
+Added Member To Class: ClassName=Input_dig Member=Component R15 330
+Added Member To Class: ClassName=Input_dig Member=Component R20 330
+Added Member To Class: ClassName=Input_dig Member=Component R21 330
+Added Member To Class: ClassName=Input_dig Member=Component R26 330
+Added Member To Class: ClassName=Input_dig Member=Component R27 330
+Added Member To Class: ClassName=Input_dig Member=Component R32 330
+Added Member To Class: ClassName=Input_dig Member=Component R33 330
+Added Room: Name=Alimentacao
+Added Room: Name=Comu_485
+Added Room: Name=conn
+Added Room: Name=eeprom24c32
+Added Room: Name=I2C
+Added Room: Name=Input_dig
+Added Room: Name=Microcontrolador
+Added Room: Name=Output_dig
+Added Room: Name=Output_Rele
+Added Room: Name=RTC_ds1307z
+Added Room: Name=USB_SERIAL

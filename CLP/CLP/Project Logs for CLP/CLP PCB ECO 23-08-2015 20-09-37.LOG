@@ -1,0 +1,28 @@
+Added Component: Designator=R52(rele)
+Added Component: Designator=R53(rele)
+Added Component: Designator=R56(rele)
+Added Component: Designator=R57(rele)
+Added Pin To Net: NetName=24V Pin=R52-1
+Added Pin To Net: NetName=NetD21_2 Pin=R52-2
+Added Pin To Net: NetName=NetJ11_1 Pin=R52-3
+Added Pin To Net: NetName=NetJ11_5 Pin=R52-4
+Added Pin To Net: NetName=24V Pin=R53-1
+Added Pin To Net: NetName=NetD22_2 Pin=R53-2
+Added Pin To Net: NetName=NetJ11_1 Pin=R53-3
+Added Pin To Net: NetName=NetJ11_3 Pin=R53-4
+Added Pin To Net: NetName=24V Pin=R56-1
+Added Pin To Net: NetName=NetD23_2 Pin=R56-2
+Added Pin To Net: NetName=NetJ11_1 Pin=R56-3
+Added Pin To Net: NetName=NetJ11_4 Pin=R56-4
+Added Pin To Net: NetName=24V Pin=R57-1
+Added Pin To Net: NetName=NetD24_2 Pin=R57-2
+Added Pin To Net: NetName=NetJ11_1 Pin=R57-3
+Added Pin To Net: NetName=NetJ11_2 Pin=R57-4
+Added Member To Class: ClassName=Output_Rele Member=Component R52 Rele
+Added Member To Class: ClassName=Output_Rele Member=Component R53 Rele
+Added Member To Class: ClassName=Output_Rele Member=Component R54 10K
+Added Member To Class: ClassName=Output_Rele Member=Component R55 10K
+Added Member To Class: ClassName=Output_Rele Member=Component R56 Rele
+Added Member To Class: ClassName=Output_Rele Member=Component R57 Rele
+Added Member To Class: ClassName=USB_SERIAL Member=Component R60 1K
+Added Member To Class: ClassName=USB_SERIAL Member=Component R61 22R

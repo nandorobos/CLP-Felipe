@@ -1,0 +1,39 @@
+Field=Description~String~Description~153|Field=Designator~String~Designator~84|Field=Quantity~Integer~Quantity~223|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~CLP.PrjPCB|ReportField=ProjectFullPath~D:\altium_proje\CLP\CLP.PrjPCB|ReportField=Title~Bill of Materials For Project [CLP.PrjPCB] (No PCB Document Selected)|ReportField=TotalQuantity~169|ReportField=ReportTime~18:24:10|ReportField=ReportDate~01/09/2015|ReportField=ReportDateTime~01/09/2015 18:24:10|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=ConfigurationParameters~|ReportField=ConfiguratorName~|ReportField=CurrentDate~01/09/2015|ReportField=CurrentTime~18:21:30|ReportField=Date~|ReportField=DocumentFullPathAndName~D:\altium_proje\CLP\SCH\Alimentacao.SchDoc|ReportField=DocumentName~Alimentacao.SchDoc|ReportField=DocumentNumber~8|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=IsUserConfigurable~|ReportField=ModifiedDate~27/08/2015|ReportField=Organization~|ReportField=ProjectName~CLP.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~8|ReportField=SheetTotal~11|ReportField=Time~|ReportField=Title~|ReportField=VersionControl_RevNumber~|ReportField=DataSourceFileName~CLP.PrjPCB|ReportField=DataSourceFullPath~D:\altium_proje\CLP\CLP.PrjPCB
+Battery Holder whit 2 Pin|BATH1|1
+Polarised capacitor|C1, C2|2
+CAPACITOR 0805 CERAMIC|C3, C4, C5, C6, C7, C8, C9, C10, C11, C12, C13, C14, C15, C16, C17, C18, C19, C20, C21, C22, C23, C24, C25, C26, C29, C30, C31, C32, C33, C34, C35|31
+CAPACITOR 0603 CERAMIC|C27, C28|2
+Diode|D1, D2, D5, D6, D9, D10, D13, D14|8
+Zener Diode|D3, D4, D7, D8, D11, D12, D15, D16|8
+DIODO 1N4007 PF-B1|D17, D18, D19, D20, D21, D22, D23, D24|8
+3-Terminal Regulator 1=GND 2=OUT 3=IN 4=OUT|IC1|1
+Single Optocoupler|IC2, IC3, IC4, IC5, IC6, IC7, IC8, IC9, IC10, IC11, IC12, IC13|12
+Dual Bidirectional Bus Buffer|IC14|1
+Connector 6 Male|J1|1
+Connector 5 Male|J2|1
+FH12 Series, "Flip-Lock" SMT/ZIF FFC/FPC Connector - 1.0mm Spaced Bottom Eccentric Contact|J3|1
+Connector 4 Male|J4|1
+Connector 3 Male|J5, J8|2
+Connector 2 Male|J6, J7|2
+Connector 10 Male|J9|1
+Connector 5 Male|J10, J11|2
+TRANSISTOR TIP 122 PF-C2|Q1, Q2, Q3, Q4|4
+Crystal 4 pins 1=XTAL Control 2 And 3=NC 4=XTAL|Q5|1
+RESISTOR 0805 1/4 WATT THIN FILM|R1, R3, R5|3
+RESISTOR 0805 1/4 WATT THIN FILM|R2, R4|2
+RESISTOR 0805 1 WATT|R6, R7, R8, R9, R10, R11, R?|7
+RESISTOR 0805 1/4 WATT THIN FILM|R12, R13, R18, R19, R24, R25, R30, R31, R40, R41, R46, R47, R64, R65, R66, R67|16
+Resistor - 1%|R14, R15, R16, R17, R20, R21, R22, R23, R26, R27, R28, R29, R32, R33, R34, R35|16
+RESISTOR 0805 1/4 WATT THIN FILM|R36, R37|2
+RESISTOR 0805 1/4 WATT THIN FILM|R38, R60, R62|3
+RESISTOR 0805 1/4 WATT THIN FILM|R39, R42, R43, R44, R45, R48, R49, R50, R51, R54, R55, R58, R59|13
+|R52, R53, R56, R57|4
+GENERIC RESISTOR 0603|R61, R63|2
+NPN Transistor|T1, T2, T3, T4|4
+LINEAR REGULATOR 5.0V|U1|1
+Extended Common-mode RS-485 Transceiver, 25 Mbps, 5 V, Half Duplex, -40 to 85 degC, 8-pin PDIP (P), Pb-Free (RoHS)|U2|1
+I2C EEPROM 4K X 8|U3|1
+8-bit AVR Microcontroller, 4.5-5.5V, 16MHz, 256KB Flash, 4KB EEPROM, 8KB SRAM, 86 GPIO pins, 100-pin TQFP, Industrial Grade (-40°C to 85°C), Pb-Free|U4|1
+64 x 8, Serial, I2C Real-Time Clock, 5.0V, 8-Pin SO, 0 to 70 degC|U5|1
+USB UART Asynchronous Serial Data Transfer Chip, 28-pin SSOP, Tape and Reel|U6|1
+16MHZ CRSYTAL HC49US|X1|1
