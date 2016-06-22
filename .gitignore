@@ -3,3 +3,5 @@ History/CLP.~(1).PrjPCB.Zip
 *.ini
 *.PrjPCBStructure
 *.LOG
+*.PcbDocPreview
+PCB/CLP_007.PcbDoc.htm
