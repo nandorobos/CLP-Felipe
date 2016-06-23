@@ -5,3 +5,5 @@ History/CLP.~(1).PrjPCB.Zip
 *.LOG
 *.PcbDocPreview
 PCB/CLP_007.PcbDoc.htm
+*.SchDocPreview
+__Previews/CLP.AnnotationPreview
