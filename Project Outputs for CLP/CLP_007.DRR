@@ -1,0 +1,24 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: CLP_007.PcbDoc   24/06/2016  17:07:08
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : CLP_007.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.5mm (19.685mil)        Round          9                118.25 mm (4.66 Inch)
+T2        0.711mm (27.992mil)      Round          102              904.89 mm (35.63 Inch)
+T3        0.8mm (31.496mil)        Round          12               85.30 mm (3.36 Inch)
+T4        0.9mm (35.433mil)        Round          164              734.42 mm (28.91 Inch)
+T5        1mm (39.37mil)           Round          16               104.14 mm (4.10 Inch)
+T6        1.092mm (42.992mil)      Round          40               173.26 mm (6.82 Inch)
+T7        1.2mm (47.244mil)        Round          29               177.77 mm (7.00 Inch)
+T8        1.4mm (55.118mil)        Round          22               320.77 mm (12.63 Inch)
+T9        1.5mm (59.055mil)        Round          2                20.50 mm (0.81 Inch)
+T10       1.6mm (62.992mil)        Round          2                20.32 mm (0.80 Inch)
+T11       3mm (118.11mil)          Round          5                445.80 mm (17.55 Inch)
+---------------------------------------------------------------------------
+Totals                                            403              3105.42 mm (122.26 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:01

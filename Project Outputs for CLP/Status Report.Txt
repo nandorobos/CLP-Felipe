@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [CLP.PrjPCB]
+   Generated File[CLP_007.TXT]
+   Generated File[CLP_007.LDP]
+   Generated File[CLP_007.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 17:07:09 On 24/06/2016
