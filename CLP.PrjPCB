@@ -243,6 +243,10 @@ GenerateClassCluster=0
 DocumentPath=PCB\CLP_007.PcbDoc.htm
 DItemRevisionGUID=
 
+[GeneratedDocument2]
+DocumentPath=Project Outputs for CLP\Design Rule Check - CLP_007.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
