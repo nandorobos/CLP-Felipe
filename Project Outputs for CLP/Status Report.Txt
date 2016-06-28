@@ -1,12 +1,27 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : Project [CLP.PrjPCB]
-   Generated File[CLP_007.TXT]
-   Generated File[CLP_007.LDP]
-   Generated File[CLP_007.DRR]
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [CLP.PrjPCB]
+   Generated File[CLP_007.GTL]
+   Generated File[CLP_007.GBL]
+   Generated File[CLP_007.GPB]
+   Generated File[CLP_007.GPT]
+   Generated File[CLP_007.GTO]
+   Generated File[CLP_007.GTP]
+   Generated File[CLP_007.GTS]
+   Generated File[CLP_007.GBS]
+   Generated File[CLP_007.GM1]
+   Generated File[CLP_007.GM8]
+   Generated File[CLP_007.GM13]
+   Generated File[CLP_007.GM14]
+   Generated File[CLP_007.GM15]
+   Generated File[CLP_007.GD1]
+   Generated File[CLP_007.GG1]
+   Generated File[CLP_007.RUL]
+   Generated File[CLP_007.EXTREP]
+   Generated File[CLP_007.REP]
 
 
-Files Generated   : 3
+Files Generated   : 18
 Documents Printed : 0
 
-Finished Output Generation At 17:07:09 On 24/06/2016
+Finished Output Generation At 20:13:26 On 28/06/2016
